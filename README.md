@@ -37,4 +37,4 @@ definitions covering call metadata, transaction logs, and prediction output.
 ## Submission Resources
 - Presentation Deck: https://docs.google.com/presentation/d/1U8p_e3wZG1W03JoudIE8kQvURsRfTJlS/view
 - 🎥 Demo Video: Coming soon
-- https://raksha-ai-v7j9.onrender.com
+- Live Link :  https://raksha-avfoq3gh3-mridulcodes15s-projects.vercel.app/
