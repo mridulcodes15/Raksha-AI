@@ -35,5 +35,6 @@ definitions covering call metadata, transaction logs, and prediction output.
 - Auditability of evidence packages
 
 ## Submission Resources
-- Presentation Deck: https://docs.google.com/presentation/d/1U8p_e3wZG1W03JoudIE8kQvURsRfTJlS/view
+- Presentation Deck: https://docs.google.com/presentation/d/1FVcbuVeuMMZaHzFzZAIrGZisevbxaxZS/view
 - 🎥 Demo Video: Coming soon
+- Live Link : https://raksha-ai-livid.vercel.app/
