@@ -36,6 +36,6 @@ definitions covering call metadata, transaction logs, and prediction output.
 
 ## Submission Resources
 - Presentation Deck: https://docs.google.com/presentation/d/1FVcbuVeuMMZaHzFzZAIrGZisevbxaxZS/view
-- 🎥 Demo Video: https://drive.google.com/file/d/1BZUJuKI9eobUCq4sPgQpYC62dYKHCQec/view?usp=sharing
+- 🎥 Demo Video: 
 - Live Link : https://raksha-ai-livid.vercel.app/
 - Detailed Document - https://docs.google.com/document/d/1G4F5jVuknY4AH3FAQO9RZT-Ylotz9StywYWUXgt3yI4/edit?usp=sharing
