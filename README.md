@@ -38,4 +38,4 @@ definitions covering call metadata, transaction logs, and prediction output.
 - Presentation Deck: https://docs.google.com/presentation/d/1FVcbuVeuMMZaHzFzZAIrGZisevbxaxZS/view
 - 🎥 Demo Video: https://drive.google.com/file/d/1BZUJuKI9eobUCq4sPgQpYC62dYKHCQec/view?usp=sharing
 - Live Link : https://raksha-ai-livid.vercel.app/
-- Deatailed Report - https://docs.google.com/document/d/1G4F5jVuknY4AH3FAQO9RZT-Ylotz9StywYWUXgt3yI4/edit?usp=sharing
+- detailed document - https://docs.google.com/document/d/1G4F5jVuknY4AH3FAQO9RZT-Ylotz9StywYWUXgt3yI4/edit?usp=sharing
